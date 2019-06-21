@@ -99,6 +99,12 @@
 #slider-e B {
   color: #ffffff;
 }
+
+
+
+
+
+
 #ext_menu-f .mbr-brand__name {
   font-size: 16px;
 }
@@ -110,4 +116,26 @@
 }
 #ext_menu-f .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#slider-g SPAN {
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 46px;
+}
+#slider-g P {
+  font-family: 'Indie Flower', cursive;
+}
+#slider-i H1 {
+  font-family: 'Indie Flower', cursive;
+}
+#slider-i P {
+  text-align: right;
+  font-family: 'Indie Flower', cursive;
+}
+#slider-k P {
+  font-family: 'Indie Flower', cursive;
+  font-size: 36px;
+}
+#slider-l H1 {
+  font-family: 'Indie Flower', cursive;
 }
