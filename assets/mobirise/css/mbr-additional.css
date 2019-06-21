@@ -1,3 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#features1-b P {
+  text-align: center;
+}
 #ext_menu-1 .mbr-brand__name {
   font-size: 16px;
 }
@@ -18,4 +70,44 @@
 }
 #msg-box3-2 .mbr-article {
   text-align: center;
+}
+
+
+#ext_menu-c .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-c .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-c .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#slider-e P {
+  text-align: right;
+  color: #ffffff;
+  font-size: 36px;
+  font-family: 'Indie Flower', cursive;
+}
+#slider-e H1 {
+  text-align: right;
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+}
+#slider-e B {
+  color: #ffffff;
+}
+#ext_menu-f .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-f.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-f .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-f .mbr-navbar__hamburger {
+  color: #ffffff;
 }

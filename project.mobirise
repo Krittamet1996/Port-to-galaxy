@@ -1,17 +1,19 @@
 {
   "settings": {
     "name": "port to galaxy",
-    "currentPage": "page4.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#252525"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 8,
+    "uniqCompNum": 17,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -88,7 +90,62 @@
         "title": "Funny moment",
         "order": 1
       },
-      "components": []
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Funny moment</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Keep it in memory</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">History of education</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">My's information</a></li>",
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "github",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/krettamet.masing",
+              "size": 0,
+              "active": true,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jj'Masing</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1"
+        }
+      ]
     },
     "page2.html": {
       "settings": {
@@ -96,7 +153,62 @@
         "title": "Keep it in memory",
         "order": 2
       },
-      "components": []
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Funny moment</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Keep it in memory</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">History of education</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">My's information</a></li>",
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "github",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/krettamet.masing",
+              "size": 0,
+              "active": true,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jj'Masing</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1"
+        }
+      ]
     },
     "page3.html": {
       "settings": {
@@ -104,15 +216,288 @@
         "title": "History of education",
         "order": 3
       },
-      "components": []
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Funny moment</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Keep it in memory</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">History of education</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">My's information</a></li>",
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "github",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/krettamet.masing",
+              "size": 0,
+              "active": true,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jj'Masing</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lg-bw-copy-150x208.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "มัธยมปลาย",
+          "caption1": "โรงเรียนราชวินิตบางแคปานขำ",
+          "button1": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/180px-logosau-2-180x180.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "ปริญาตรี",
+          "caption2": "มหาวิทยาลัยเอเชียอาคเนย์",
+          "button2": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-b",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
     },
     "page4.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "My's information",
-        "order": 4
+        "order": 6
       },
       "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Funny moment</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Keep it in memory</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">History of education</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">My's information</a></li>",
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "github",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/krettamet.masing",
+              "size": 0,
+              "active": true,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jj'Masing</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1"
+        },
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
@@ -160,9 +545,9 @@
         {
           "_params": {
             "showTitle": true,
-            "showName": true,
+            "showName": false,
             "showBio": true,
-            "count": 3,
+            "count": "3",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -178,18 +563,23 @@
           "items": [
             {
               "authorName": "",
-              "authorBio": "",
-              "text": "<p>ชื่อจริง นายกฤตเมธ มาสิงห์&nbsp;</p><p>ปัจจุบันอายุ : 23ปี&nbsp;</p><p>เกิดวันที่ : 29 มีนาคม พ.ศ.2539&nbsp;</p><p>สถานที่เกิด : นครศรีธรรมราช</p>"
+              "authorBio": "Seles go up and down<br>service stay forever.",
+              "text": "<p>ชื่อจริง นายกฤตเมธ มาสิงห์&nbsp;</p><p>ปัจจุบันอายุ : 23ปี&nbsp;</p><p>เกิดวันที่ : 29 มีนาคม พ.ศ.2539&nbsp;</p><p>สถานที่เกิด : นครศรีธรรมราช</p><p>จบจาก : มหาวิทยาลัยเอเชียอาคเนย์ </p><p>คณะบริหารธุรกิจ สาขาการตลาด&nbsp;</p>"
             },
             {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+              "authorName": "",
+              "authorBio": "Whether you think you can<br>or you can't<br>you're ritgh.",
+              "text": "<p><b>งานกิจกรรมในมหาลัย/University activities</b></p><p>อุปนายกสโมสรนักศึกษามหาวิทยาลัย</p><p>งานกิจกรรมกีฬาภายใน\n</p><p>งานกิจกรรมวันแม่\n</p><p>งานกิจกรรมไหว้ครูและบายศรีสู่ขวัญ\n</p><p>งานกิจกรรมรับน้องมหาวิทยาลัย\n</p><p>กิจกรรมประกวดเฟรชชี่มหาลัย\n</p><p>นายกสโมสรคณะบริหารธุรกิจ\n</p><p>งานกิจกรรมค่ายโรงเรียนนายร้อย จปร. นครนายก\n</p><p>งานกิจกรรม Walk really คณะบริหารธุรกิจ\n</p><p>งานกิจจกรรมไหว้ครูและบายศรีสู่ขวัญคณะบริหาร\n</p><p>ธุรกิจ\n</p><p>ประธานสาขาการตลาด\n</p><p>งานกิจกรรมMarketing Day\n</p><p>งานกิจกรรม Thankyou Party\n</p><p>งานกิจกรรมรับน้องสาขาการตลาด\n</p><p>งานบายศรีสู่ขวัญสาขาการตลาด\n</p><p>กิจกรรมประกวดทำพานไหว้ครู</p>"
             },
             {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+              "authorName": "",
+              "authorBio": "If you cannot do great things<br>do small things in great way.<br><br>",
+              "text": "<p class=\"mbr-reviews__p\"><b>ความสามารถ/ skill</b></p><p class=\"mbr-reviews__p\">ด้านกราฟฟิค&nbsp;</p><p class=\"mbr-reviews__p\">-Adoby Illustrator CC , Adoby Photoshop</p><p class=\"mbr-reviews__p\">ด้ารการตัดต่อวิดีโอ</p><p class=\"mbr-reviews__p\">-Sony Vegas , Power Director</p><p class=\"mbr-reviews__p\">ด้านการเขียน</p><p class=\"mbr-reviews__p\">-Powerpoint , Excel , Word</p><p class=\"mbr-reviews__p\">การถ่ายภาพ</p><p class=\"mbr-reviews__p\">-Adoby Lightroom</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Other skill</p><p class=\"mbr-reviews__p\">-ซ่อม ติดตั้งโปรแกรม ประกอบคอมพิวเตอร์</p><p class=\"mbr-reviews__p\">-ไฟฟ้าพื้นฐานและแอร์บ้าน</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">ภาษา/Language</p><p class=\"mbr-reviews__p\">- I can Speek and i understand it. either write.</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
             }
           ],
           "_tags": [
@@ -201,52 +591,288 @@
             {
               "authorName": "",
               "authorBio": "Seles go up and down<br>service stay forever.",
-              "text": "<p>ชื่อจริง นายกฤตเมธ มาสิงห์&nbsp;</p><p>ปัจจุบันอายุ : 23ปี&nbsp;</p><p>เกิดวันที่ : 29 มีนาคม พ.ศ.2539&nbsp;</p><p>สถานที่เกิด : นครศรีธรรมราช</p>"
+              "text": "<p>ชื่อจริง นายกฤตเมธ มาสิงห์&nbsp;</p><p>ปัจจุบันอายุ : 23ปี&nbsp;</p><p>เกิดวันที่ : 29 มีนาคม พ.ศ.2539&nbsp;</p><p>สถานที่เกิด : นครศรีธรรมราช</p><p>จบจาก : มหาวิทยาลัยเอเชียอาคเนย์ </p><p>คณะบริหารธุรกิจ สาขาการตลาด&nbsp;</p>"
             },
             {
               "authorName": "",
               "authorBio": "Whether you think you can<br>or you can't<br>you're ritgh.",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>"
+              "text": "<p><b>งานกิจกรรมในมหาลัย/University activities</b></p><p>อุปนายกสโมสรนักศึกษามหาวิทยาลัย</p><p>งานกิจกรรมกีฬาภายใน\n</p><p>งานกิจกรรมวันแม่\n</p><p>งานกิจกรรมไหว้ครูและบายศรีสู่ขวัญ\n</p><p>งานกิจกรรมรับน้องมหาวิทยาลัย\n</p><p>กิจกรรมประกวดเฟรชชี่มหาลัย\n</p><p>นายกสโมสรคณะบริหารธุรกิจ\n</p><p>งานกิจกรรมค่ายโรงเรียนนายร้อย จปร. นครนายก\n</p><p>งานกิจกรรม Walk really คณะบริหารธุรกิจ\n</p><p>งานกิจจกรรมไหว้ครูและบายศรีสู่ขวัญคณะบริหาร\n</p><p>ธุรกิจ</p><p>\n</p><p>กิจกรรมเลี้ยงอาหารและมอบความสุขให้กับบ้านพักคนชรา หลวงพ่อเปิ่น</p><p>ประธานสาขาการตลาด\n</p><p>งานกิจกรรมMarketing Day\n</p><p>งานกิจกรรม Thankyou Party\n</p><p>งานกิจกรรมรับน้องสาขาการตลาด\n</p><p>งานบายศรีสู่ขวัญสาขาการตลาด\n</p><p>กิจกรรมประกวดทำพานไหว้ครู</p>"
             },
             {
               "authorName": "",
               "authorBio": "If you cannot do great things<br>do small things in great way.<br><br>",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+              "text": "<p class=\"mbr-reviews__p\"><b>ความสามารถ/ skill</b></p><p class=\"mbr-reviews__p\">ด้านกราฟฟิค&nbsp;</p><p class=\"mbr-reviews__p\">-Adoby Illustrator CC , Adoby Photoshop</p><p class=\"mbr-reviews__p\">ด้ารการตัดต่อวิดีโอ</p><p class=\"mbr-reviews__p\">-Sony Vegas , Power Director</p><p class=\"mbr-reviews__p\">ด้านการเขียน</p><p class=\"mbr-reviews__p\">-Powerpoint , Excel , Word</p><p class=\"mbr-reviews__p\">การถ่ายภาพ</p><p class=\"mbr-reviews__p\">-Adoby Lightroom</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Other skill</p><p class=\"mbr-reviews__p\">-ซ่อม ติดตั้งโปรแกรม ประกอบคอมพิวเตอร์</p><p class=\"mbr-reviews__p\">-ไฟฟ้าพื้นฐานและแอร์บ้าน</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">ภาษา/Language</p><p class=\"mbr-reviews__p\">- I can Speek and i understand it. either write.</p>"
             }
           ]
         },
         {
           "_params": {
-            "token": "1095984374.727bfe1.ecc43ec37f424a57a768c9f90eab7b90",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
             "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1980639714764874236_1095984374\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
+          "text": "Hit me!!!",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/krettamet.masing\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC-LUPufUNsqTE3zhGF2Bkcw/featured?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/holykrit/?hl=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-7"
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-9"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "โรงเรียนราชวินิตบางแคปานขำ",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Funny moment</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Keep it in memory</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">History of education</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">My's information</a></li>",
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "github",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/krettamet.masing",
+              "size": 0,
+              "active": true,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jj'Masing</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-c"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-6721-2000x1333.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "6/3",
+                "contentAlign": "right",
+                "text": "<b>All member of my class.</b>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-6730-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "6/3",
+                "contentAlign": "right",
+                "text": "Graduated day,<br><b>Keep it in memmory.</b>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-6746-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "6/3",
+                "contentAlign": "right",
+                "text": "<b>Friendship is so importent,</b><br><b> no matter what time passed away.</b>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-e",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff",
+              "font-size": "36px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "H1": {
+              "text-align": "right",
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "มหาวิทยาลัยเอเชียอาคเนย์",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Funny moment</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Keep it in memory</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">History of education</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">My's information</a></li>",
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "github",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/krettamet.masing",
+              "size": 0,
+              "active": true,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jj'Masing</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-f"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "images/slide1.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "image": "images/slide2.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "images/slide3.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-g"
         }
       ]
     }
