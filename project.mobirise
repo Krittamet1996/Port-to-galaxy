@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "port to galaxy",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -2820,7 +2820,7 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-o"
+          "_anchor": "slider-1c"
         }
       ]
     }
