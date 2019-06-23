@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "port to galaxy",
-    "currentPage": "page4.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -16,7 +16,10 @@
     "siteFonts": [],
     "uniqCompNum": 50,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -1785,7 +1788,7 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
