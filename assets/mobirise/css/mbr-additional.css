@@ -1,4 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+
+
+
+
+
 #ext_menu-1 .mbr-brand__name {
   font-size: 16px;
 }
@@ -10,6 +16,37 @@
 }
 #ext_menu-1 .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#header1-1e P {
+  color: #000000;
+  text-align: right;
+  font-family: 'Indie Flower', cursive;
+  font-size: 32px;
+}
+#header1-1e H1 {
+  color: #000000;
+  text-align: right;
+  font-family: 'Indie Flower', cursive;
+  font-size: 84px;
+}
+#header4-1f H1 {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 84px;
+}
+#header4-1f P {
+  font-family: 'Indie Flower', cursive;
+  font-size: 32px;
+}
+#header1-1h H1 {
+  color: #000000;
+  font-size: 72px;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+#contacts1-1g P {
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
 }
 
 
@@ -162,6 +199,7 @@
   font-family: 'Indie Flower', cursive;
   text-align: center;
 }
+
 #ext_menu-1 .mbr-brand__name {
   font-size: 16px;
 }
@@ -176,6 +214,10 @@
 }
 #features1-b P {
   text-align: center;
+}
+#features1-b .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 15px;
 }
 #ext_menu-1 .mbr-brand__name {
   font-size: 16px;
