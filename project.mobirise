@@ -19,7 +19,11 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "siteUrl": "undefined"
+    "siteUrl": "http://porttogalaxy.com",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on"
   },
   "pages": {
     "index.html": {
